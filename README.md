@@ -4,11 +4,11 @@ Software Engineering course project (Track B: Website). A web system that regist
 
 ## Team
 
-| Name | Student ID | Section | Role |
-| --- | --- | --- | --- |
-| Ahmad Muhammad Yasser Al-Zaro | 231216 | 3 | Team Leader, backend |
-| Taqi Al-Din Awad Abu Sarhan | 231220 | 1 | Frontend |
-| Muthanna Abdul Latif Al-Namoura | 237574 | 1 | QA, documentation |
+| Name | Role |
+| --- | --- |
+| Ahmad Muhammad Yasser Al-Zaro | Team Leader, backend |
+| Taqi Al-Din Awad Abu Sarhan | Frontend |
+| Muthanna Abdul Latif Al-Namoura | QA, documentation |
 
 ## Architecture
 
@@ -25,7 +25,7 @@ Design patterns: State (order status), Observer (status emails), layered service
 
 ![Architecture](docs/diagrams/architecture.png)
 
-## Repository structure
+## Planned repository structure
 
 ```
 frontend/src/api          API client
@@ -48,14 +48,14 @@ docs/                     SRS, diagrams, Postman collection
 
 ## Project links
 
-- SRS document: `docs/SRS.pdf`
-- Jira board: (add link)
+- The English SRS is submitted separately for Phase 2.
+- Jira board: [SCRUM backlog](https://taqio.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog)
 
 ## Status
 
 Phase 2: requirements, design and project setup. Implementation starts in Sprint 1 (see the Jira board).
 
-## Getting started (from Sprint 1)
+## Planned setup after the Laravel and React projects are initialized
 
 ```
 # backend
